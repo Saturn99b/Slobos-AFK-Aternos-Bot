@@ -2,9 +2,11 @@
   "name": "AFK Bot",
 
   "bot-account": {
-    "username": "Slobot00",
+   "bot-account": {
+    "username": "Saturn99b",
     "password": "",
-    "type": "offline"
+    "type": "microsoft"
+},
   },
 
   "server": {
