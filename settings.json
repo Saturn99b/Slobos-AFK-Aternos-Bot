@@ -2,9 +2,9 @@
   "name": "AFK Bot",
 
   "bot-account": {
-    "username": "afkbot",
+    "username": "Saturn99b",
     "password": "",
-    "type": "offline"
+    "type": "microsoft"
   },
 
   "server": {
