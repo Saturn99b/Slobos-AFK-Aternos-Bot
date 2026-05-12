@@ -9,7 +9,7 @@
 
   "server": {
     "ip": "S99-SMP.aternos.me",
-    "port": 27683,
+    "port":  27683,
     "version": "1.21.1",
     "try-creative": false
   },
