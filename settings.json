@@ -2,17 +2,15 @@
   "name": "AFK Bot",
 
   "bot-account": {
-   "bot-account": {
     "username": "Saturn99b",
     "password": "",
-    "type": "microsoft"
-},
+    "type": "offline"
   },
 
   "server": {
     "ip": "S99-SMP.aternos.me",
     "port": 27683,
-    "version": "1.21.11",
+    "version": "1.21.1",
     "try-creative": false
   },
 
@@ -26,8 +24,8 @@
   "utils": {
 
     "auto-auth": {
-      "enabled": true,
-      "password": "chalol78"
+      "enabled": false,
+      "password": ""
     },
 
     "anti-afk": {
